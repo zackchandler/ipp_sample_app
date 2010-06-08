@@ -1,0 +1,2 @@
+Sample application for the following blog post:
+[http://depixelate.com/2010/04/26/intuit-partner-platform-for-ruby-web-applications/](http://depixelate.com/2010/04/26/intuit-partner-platform-for-ruby-web-applications/)
